@@ -6,5 +6,7 @@
 - mlflow
 - polars
 - bokeh
+- flask
 - dvc
 - ruff
+- docker compose

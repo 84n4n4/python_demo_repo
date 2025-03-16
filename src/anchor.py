@@ -1,3 +1,6 @@
+from pathlib import Path
+
+
 def src_dir():
     return str(Path(__file__).parent)
 
