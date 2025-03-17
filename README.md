@@ -9,4 +9,3 @@
 - flask
 - dvc
 - ruff
-- docker compose
