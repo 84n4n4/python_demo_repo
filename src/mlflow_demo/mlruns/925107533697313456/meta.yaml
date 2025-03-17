@@ -1,0 +1,6 @@
+artifact_location: file:///home/banana/tuwien/ds_demo/src/mlflow_demo/mlruns/925107533697313456
+creation_time: 1742193843767
+experiment_id: '925107533697313456'
+last_update_time: 1742193843767
+lifecycle_stage: active
+name: /iris_RF
