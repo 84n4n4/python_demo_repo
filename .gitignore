@@ -130,7 +130,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+src/pydantic_settings_demo/.env
 .venv
 env/
 venv/

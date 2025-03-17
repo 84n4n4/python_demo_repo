@@ -11,6 +11,7 @@ dependencies = [
     "pandas>=2.2.3",
     "polars>=1.25.2",
     "pydantic>=2.10.6",
+    "pydantic-settings>=2.8.1",
     "pytest>=8.3.5",
     "scikit-learn>=1.6.1",
     "tqdm>=4.67.1",
