@@ -1,4 +1,4 @@
-from demo_config import config
+from pydantic_settings_demo.demo_config import config
 
 def main():
     print(config.DB_HOST)
