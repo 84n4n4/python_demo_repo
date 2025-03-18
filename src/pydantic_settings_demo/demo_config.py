@@ -6,8 +6,8 @@ class Config(BaseSettings):
     DB_USERNAME: str = 'root'
     DB_PASSWORD: str = 'root_passwd'
     DB_DATABASE: str = 'tuw'
-    # class Config:
-    #     env_file = ".env"
+
     model_config = SettingsConfigDict(env_file='.env')
+
 
 config = Config()

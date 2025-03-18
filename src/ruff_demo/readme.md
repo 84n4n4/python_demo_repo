@@ -1,1 +1,3 @@
-uv add --dev ruff
+- `uv add --dev ruff` install ruff
+- `ruff check` to run ruff
+- `ruff check --fix` to run ruff and fix all trivial fixable stuff right away

@@ -1,7 +1,7 @@
 from datetime import datetime
 
-import pandas
 import numpy as np
+import pandas
 
 from src.anchor import data_dir
 

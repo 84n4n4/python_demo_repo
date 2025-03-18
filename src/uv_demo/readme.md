@@ -1,0 +1,7 @@
+- `uv init` to initialize a new project.
+- UV manages .venv's for you, so even if your IDE doesnt support UV, create a new venv in this project, then run uv init.
+- `uv sync` to create the env if you just cloned a repo.
+- `uv sync -U` to update all dependencies.
+- `uv add pandas` add a new library/dependency
+- `uv add --dev` pytest' add new only for dev environment.
+- all files to be committed (e.g. uv.lock is updated everytime uv sync or uv sync -U).

@@ -1,5 +1,4 @@
 import datetime as dt
-import json
 from enum import Enum
 
 from pydantic import BaseModel

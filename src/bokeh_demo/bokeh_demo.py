@@ -4,6 +4,7 @@ from bokeh.models import HoverTool, ColumnDataSource, CategoricalColorMapper
 from bokeh.plotting import figure, show
 from sklearn.datasets import load_iris
 
+
 # output_notebook()
 
 

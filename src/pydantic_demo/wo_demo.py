@@ -2,7 +2,6 @@ import datetime as dt
 import json
 
 
-
 def main():
     qr = {
         'time': dt.datetime.now(),
