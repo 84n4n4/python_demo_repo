@@ -6,4 +6,6 @@ def src_dir():
 
 
 def data_dir():
-    return str(Path(__file__).parent / '..' / 'data')
+    data_path = Path(__file__).parent / '..' / 'data'
+    data_path.mkdir(parents=True, exist_ok=True)
+    return str(data_path)
