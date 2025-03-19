@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "bokeh>=3.7.0",
+    "faker>=37.0.1",
+    "ftfy>=6.3.1",
     "loguru>=0.7.3",
     "mlflow>=2.21.0",
     "numpy>=2.2.3",

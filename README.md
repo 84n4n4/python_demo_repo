@@ -11,3 +11,5 @@
 - plotly https://plotly.com/python/
 - flask https://flask.palletsprojects.com/en/stable/quickstart/
 - loguru https://loguru.readthedocs.io/en/stable/
+- ftfy https://ftfy.readthedocs.io/en/latest/
+- faker https://faker.readthedocs.io/en/stable/
